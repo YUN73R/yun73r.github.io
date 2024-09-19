@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "docs:dev": "vuepress-vite dev docs",
-    "docs:build": "vuepress-vite build docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
     "blog:dev": "vuepress-vite dev blog",
     "blog:build": "vuepress-vite build blog",
     "docs:clean-dev": "vuepress-vite dev blog --clean-cache",
