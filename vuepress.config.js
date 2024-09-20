@@ -14,7 +14,7 @@ export default defineUserConfig({
     locales: {
         '/': { lang: 'zh-CN', title: 'YUN73R', description: '热爱生活' },
     },
-    dest: 'docs',
+    dest: 'dist',
     public: resolve('public'),
     temp: resolve('.vuepress/.temp'),
     cache: resolve('.vuepress/.cache'),
