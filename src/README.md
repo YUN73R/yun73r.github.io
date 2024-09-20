@@ -3,12 +3,12 @@ pageLayout: home
 
 config:
   - type: banner
-    banner: https://cn.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_1920x1080.webp
+    banner: https://api.kdcc.cn/img/bingimg/dayimg.jpg
     bannerMask:
       light: 0.1
       dark: 0.3
     hero:
-      name: 鹏展博
+      name: YUN73R
       tagline: Front End Developer
       text: 即使慢，驰而不息，纵会落后，纵会失败，但必须能够到达他所向的目标。
       actions:
@@ -18,9 +18,10 @@ config:
           theme: brand
         -
           text: Github
-          link: https://github.com/pengzhanbo
+          icon: github
+          link: https://github.com/YUN73R
           theme: alt
-
+    background: 'https://api.kdcc.cn/img/bingimg/dayimg.jpg' 
   - type: custom
 ---
 
