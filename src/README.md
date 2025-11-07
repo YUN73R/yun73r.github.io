@@ -29,15 +29,4 @@ config:
 
 <CardGrid>
   <RepoCard repo="YUN73R/yun73r.github.io" />
-  <RepoCard repo="pengzhanbo/vuepress-theme-plume" />
-  <RepoCard repo="pengzhanbo/vite-plugin-image-placeholder" />
-  <RepoCard repo="pengzhanbo/rspack-plugin-mock" />
-  <RepoCard repo="vuepress/ecosystem" />
-  <RepoCard repo="pengzhanbo/chinese-simple2traditional " />
-  <RepoCard repo="pengzhanbo/vulcan " />
-  <RepoCard repo="pengzhanbo/caniuse-embed" />
-  <RepoCard repo="any-hooks/solid-hooks" />
-  <RepoCard repo="pengzhanbo/geo-pattern-ts" />
-  <RepoCard repo="stylelint-types/stylelint-define-config" />
-  <RepoCard repo="pengzhanbo/spearjs" />
 </CardGrid>
